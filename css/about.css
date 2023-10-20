@@ -1,5 +1,5 @@
 .bg {
-    background:linear-gradient(rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(/SanNiolas/img/snbg.jpg);
+    background:linear-gradient(rgba(0,0,0,0.5)50%, rgba(0,0,0,0.5)50%), url(../img/snbg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;

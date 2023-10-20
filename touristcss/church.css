@@ -1,5 +1,5 @@
 .bg {
-    background-image: url('/San Nicolas/img/church1.jpg');
+    background-image: url('../img/church1.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
