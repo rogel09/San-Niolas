@@ -193,6 +193,10 @@ img {
         width: 400px;
         height: 800px;
     }
+
+    img {
+        display: flex;
+        width: 300px;
 }
 
 @media screen and (min-width:768px) and (max-width:959px) {
